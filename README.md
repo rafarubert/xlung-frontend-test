@@ -1,6 +1,6 @@
 # Especificação da Vaga
 
-Bolsa de inovação tecnologica com duração de 6 meses(possibilidade de contratação) para compor time Xlung onde construiremos melhorias de ferramenta XT(https://xlung.net/trainer). Força tarefa montada para auxiliar no treinamento dos profissionais de saúde do Estado do Ceará para combate do COVID-19.
+Bolsa de inovação tecnologica com duração de 6 meses(possibilidade de contratação) para compor time Xlung onde construiremos melhorias da ferramenta XT(https://xlung.net/trainer). Força tarefa montada com objetivo de auxiliar na capacitação em VM(Ventilação Mecânica) voltada  aos profissionais de saúde do Estado do Ceará para combate do COVID-19.
 
 * Bolsa de inovação Tecnologica BIT-PIG 1: [https://www.funcap.ce.gov.br/wp-content/uploads/sites/52/2018/08/TABELA-VALORES-BIT-VERS%C3%83O-ATUALIZADA-EM-04.10.19.pdf]
 
