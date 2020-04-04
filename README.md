@@ -41,8 +41,6 @@ Você será avaliado pela qualidade do código, pela modularidade, pela legibili
 
 Não esqueça da otimização de velocidade da App nem da experiência do usuário.
 
-Fatores Negociais:
-
 # Arquitetura da solução/O que fazer
 
 No arquivo README do projeto explique o funcionamento e a solução adotada na sua implementação do desafio.
