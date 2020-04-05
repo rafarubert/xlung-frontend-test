@@ -20,7 +20,7 @@ Devem ser utilizadas as seguintes tecnologias :
 * Testes (Que achar necessário)
 * Qualquer tecnologia ou padrão complementar as citadas anteriormente são permitidas com as devidas justificativas no README.
 
-# Direrenciais
+# Diferenciais
 
 * Docker
 * Publicação
