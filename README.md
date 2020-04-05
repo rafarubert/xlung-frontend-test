@@ -28,7 +28,7 @@ Devem ser utilizadas as seguintes tecnologias :
 
 # O desafio
 
-## Crie uma Single Page Application contendo uma listagem de pelo menos 5 grupos de doenças(código, descrição) contigas no arquivo bula.json.
+## Crie uma Single Page Application contendo uma listagem de pelo menos 5 grupos de doenças(código, descrição) contidas no arquivo bula.json.
 
 Modo básico o App consiste de uma tela de lista de  grupos de doenças.
 
